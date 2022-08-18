@@ -1,0 +1,10 @@
+{
+  "Name": "MinesRandomizer",
+  "Author": "Underscore",
+  "Version": "1.0.0",
+  "Description": "Randomize mines map layout on load",
+  "UniqueID": "underscore.minesrandomizer",
+  "EntryDll": "MinesRandomizer.dll",
+  "MinimumApiVersion": "3.15.0",
+  "UpdateKeys": []
+}
